@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerContinuousPathGame", "MultiplayerContinuousPathGame\MultiplayerContinuousPathGame.csproj", "{BF968F42-8BE0-444B-A623-FB638EC74C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF968F42-8BE0-444B-A623-FB638EC74C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF968F42-8BE0-444B-A623-FB638EC74C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF968F42-8BE0-444B-A623-FB638EC74C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF968F42-8BE0-444B-A623-FB638EC74C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05EA7948-1E86-4E2F-89A1-68AE11084A82}
+	EndGlobalSection
+EndGlobal
